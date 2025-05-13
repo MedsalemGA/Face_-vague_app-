@@ -1,0 +1,1 @@
+une petite application en python qui genere une interface qui permet d'ajouter une image et l'application va flouter tous les visages ou permet d(ouvrir le camera et flouter les visages au meme temps 
